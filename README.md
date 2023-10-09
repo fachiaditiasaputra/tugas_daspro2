@@ -10,5 +10,16 @@ langkah utama yaitu kita mulai lalu kita akan memasukkan data ikan cupang yang a
 ![Screenshot (32)](https://github.com/fachiaditiasaputra/tugas_daspro2/assets/144757500/d4f20e6d-ebcf-418d-a42e-b11ea5cfc06d)
 
 di atas merupakan gambar output dari program yang telah saya buat
+jika user run maka akan menampilkan tampilan seperti di atas. ada menu ikan cupang dimana user akan diminta login sebagai apa, jika login sebagai admin maka user akan di minta memasukkan nama dan juga password sebagai admin jika berhasil maka akan muncul tampilan menu admin di masa ada 4 pilihan tambah,ubah,hapus, dan logout jika admin memasukkan pilihan tambah maka admin akan di minta untuk memasukkan data ikan cupang yang akan di tambah,jika admin masuk ke pilihan ubah maka admin akan di minta untuk mengubah data ikan cupang atau memasukkan ikan yang ingin di ubah datanya, dan seterusnya sampai ke pilihan logout admin.
+
+![Screenshot (33)](https://github.com/fachiaditiasaputra/tugas_daspro2/assets/144757500/c5a8ba16-dea5-449f-80f2-7637cc3adc23)
+
+jika user login sebagai pembeli maka akan muncul tampilan seperti gambar diatas. tampilan jenis ikan cupang serta harga, pembeli akan di minta untuk memasukkan nama,hari dan tanggal,no hp,dan jenis ikan cupang yang akan dibeli jika selesai memasukkan data tersebut maka pembeli akan berhasil untuk pembelian ikan cupang.
+
+![Screenshot (34)](https://github.com/fachiaditiasaputra/tugas_daspro2/assets/144757500/c25c71b4-454e-4d2d-a9dd-599d0228c44a)
+
+terakhir adalah pilihan gambar apabila kita memasukkan pilihan ketiga yaitu keluar dari program.
+
+
 
 
