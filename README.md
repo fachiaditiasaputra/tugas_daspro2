@@ -16,6 +16,7 @@ jika user run maka akan menampilkan tampilan seperti di atas. ada menu ikan cupa
 
 jika user login sebagai pembeli maka akan muncul tampilan seperti gambar diatas. tampilan jenis ikan cupang serta harga, pembeli akan di minta untuk memasukkan nama,hari dan tanggal,no hp,dan jenis ikan cupang yang akan dibeli jika selesai memasukkan data tersebut maka pembeli akan berhasil untuk pembelian ikan cupang.
 
+
 ![Screenshot (34)](https://github.com/fachiaditiasaputra/tugas_daspro2/assets/144757500/c25c71b4-454e-4d2d-a9dd-599d0228c44a)
 
 terakhir adalah pilihan gambar apabila kita memasukkan pilihan ketiga yaitu keluar dari program.
